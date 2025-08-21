@@ -9,56 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022-present: Postdoctoral Researcher, Perimeter Institute for Theoretical Physics
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018-2022: PhD Researcher, Max Planck Institute for Gravitational Physics 
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2016-2017: Graduate Teaching Assistant, University of Maryland, College Park
+
+Education
+======
+* PhD in Physics, University of Maryland, College Park, USA, 2022
+* BS in Electrical Engineering, Alexandria University, Egypt, 2016
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python, SQL, C/C++, Mathematica, TeX/LaTeX
+* Machine Learning: Scikit-learn, Keras, Tensorflow
+* Model Deployment: Streamlit, FastAPI, Docker, AWS
+* Developer Tools: Git, Linux, VS Code, Jupyter Notebooks
+* Statistics: Frequentist and Bayesian inference, Monte Carlo simulations, statistical hypothesis testing
 
-Publications
+Awards
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Marie Skłodowska-Curie Actions Fellowship, The European Commission, 2025 (declined)
+* Otto Hahn Medal, The Max Planck Society, 2024 (dissertation award)
+* Charles W. Misner Award, University of Maryland, 2021 (dissertation award)
+* Ralph Myers & Friends of Physics Award, University of Maryland, 2017 (teaching award)
+
