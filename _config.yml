@@ -8,12 +8,12 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
+site_theme               : "air" # Currently available options are "default", "air"
 title                    : "Mohammed Khalil"
 title_separator          : "-"
 name                     : &name "Mohammed Khalil"
 description              : &description "personal website and portfolio"
-url                      : https://mkhalil-ds.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://mkhalil-ds.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MKhalil-DS/mkhalil-ds.github.io"
 
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Mohammed Khalil"
   pronouns         : # example: "she/her"  
-  bio              : "Data Scientist, PhD in Physics"
+  bio              : "Data Scientist, Researcher, PhD in Physics"
   location         : "Ontario, Canada"
   employer         : # 
   uri              : # URL
