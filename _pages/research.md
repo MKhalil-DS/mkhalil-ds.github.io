@@ -20,8 +20,6 @@ My [research](https://scholar.google.com/citations?hl=en&user=eukGPR4AAAAJ&view_
 
 Analytical Approximation Methods
 ===================
-![Analytical Approximation Methods: PN, PM, GSF](/images/research/PN-PM-SF.jpg "Analytical Approximation Methods")
-
 Three main approximation methods are used for modeling the dynamics of binary systems and their GW emissions: 
 
 1. *The post-Newtonian (PN) approximation* is an expansion in small velocities and large separations, making it suitable for comparable-mass binaries in bound orbits.
@@ -29,6 +27,8 @@ Three main approximation methods are used for modeling the dynamics of binary sy
 2. *The post-Minkowskian (PM) approximation* is an expansion in large separations, making it suitable for scattering encounters, since arbitrary velocities could be reached. 
 
 3. *Gravitational self-force (GSF)* is an expansion in the small mass-ratio, making it suitable for intermediate and extreme mass-ratio inspirals.
+
+![Analytical Approximation Methods: PN, PM, GSF](/images/research/PN-PM-SF.jpg "Analytical Approximation Methods")
 
 I contributed to the derivation of several novel PN results for the conservative dynamics ([Antonelli+ 2020](https://arxiv.org/abs/2003.11391), [Antonelli+ 2020](https://arxiv.org/abs/2010.02018), [Khalil 2021](https://arxiv.org/abs/2110.12813), [Bautista+ 2024](https://arxiv.org/abs/2408.01871)), using an approach that combines PN, PM, and GSF methods.
 

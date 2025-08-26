@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # Currently available options are "default", "air"
+site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Mohammed Khalil"
 title_separator          : "-"
 name                     : &name "Mohammed Khalil"
@@ -37,7 +37,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=eukGPR4AAAAJ&view_op=list_works&sortby=pubdate"
   inspire-hep      : "https://inspirehep.net/authors/1290195?ui-citation-summary=true"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-6398-4428"
+  orcid            : #"https://orcid.org/0000-0002-6398-4428"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
